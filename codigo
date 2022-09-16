@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <title></title>
+    </head>
+    <body>
+        <h1>  
+            <img src="img2/bb.jpg" 
+            alt="afa"
+            width="60px"
+            height="60px" >
+            
+                </h1>
+                <h2>
+                        Lista de convocados de la seleccion Argentina Qatar 2022
+                
+                </h2> 
+                <h3>
+        
+                    ARQUEROS 
+                    <br/>
+                    Emiliano Martínez
+                    <br/>
+                     Franco Armani
+                    <BR/>
+                     Gerónimo Rulli.
+                    
+                </h3>
+                DEFENSORES 
+                <br/>
+                Nahuel Molina
+                <br/>
+                 Gonzalo Montiel
+                 <br/>
+                  Germán Pezzella
+                <br/>
+                 Cristian Romero
+                <br/>
+                 Nehuén Pérez
+                 <br/>
+                  Nicolás Otamendi
+                <br/>
+                 Lisandro Martínez
+                 <br/>
+                 Facundo Medina
+                 <br/>
+                  Nicolás Tagliafico 
+                  <br/>
+                  Marcos Acuña.
+            </h3>
+            <h4>
+                MEDIOCAMPISTA 
+                <br/>
+                Leandro Paredes
+                <br/> Guido Rodríguez <br/> Enzo Fernández<br/> Rodrigo De Paul<br/> Exequiel Palacios<br/> Alejandro Gómez<br/>Giovani Lo Celso<br/> Alexis Mac Allister <br/>Ángel Di María
+            </h4>
+            <h5>
+                DELANTEROS 
+                <br/>
+                Paulo Dybala<br/> Ángel Correa<br/> Lionel Messi<br/> Thiago Almada,
+                <br/> Joaquín Correa<br/> Lautaro Martínez <br/> Julián Álvarez
+            </h5>
+        </body>
+        
+    </html>
